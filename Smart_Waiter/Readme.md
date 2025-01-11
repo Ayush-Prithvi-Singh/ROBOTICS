@@ -1,1 +1,1 @@
-
+Designed and developed an autonomous food delivery robot leveraging advanced motion planning algorithms, programmed using Arduino. The robot utilizes encoder feedback for precise navigation and delivery tasks. A custom-designed graphical user interface (GUI) facilitates seamless control and monitoring, enabling efficient and automated customer service.
